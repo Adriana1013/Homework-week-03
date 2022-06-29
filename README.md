@@ -21,3 +21,8 @@ WHEN all prompts are answered
 THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
+
+
+Links: 
+https://github.com/Adriana1013/Homework-week-03
+https://adriana1013.github.io/Homework-week-03/
