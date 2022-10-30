@@ -1,4 +1,8 @@
 # Homework-week-03
+
+## Example
+![A screenshot of my assignment](./Assets/Password%20Generator.png)
+
 User Story:
 AS AN employee with access to sensitive data
 I WANT to randomly generate a password that meets certain criteria
