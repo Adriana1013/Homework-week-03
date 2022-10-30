@@ -3,13 +3,13 @@
 ## Example
 ![A screenshot of my assignment](./Assets/Password%20Generator.png)
 
-User Story:
+## User Story:
 AS AN employee with access to sensitive data
 I WANT to randomly generate a password that meets certain criteria
 SO THAT I can create a strong password that provides greater security
 
 
-The Acceptance Criteria: 
+## The Acceptance Criteria: 
 GIVEN I need a new, secure password
 WHEN I click the button to generate a password
 THEN I am presented with a series of prompts for password criteria
@@ -27,6 +27,6 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
 
-Links: 
+## Links: 
 https://github.com/Adriana1013/Homework-week-03
 https://adriana1013.github.io/Homework-week-03/
